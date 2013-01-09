@@ -1,3 +1,5 @@
+<?php /* Smarty version 2.6.25, created on 2013-01-09 17:40:30
+         compiled from index.html */ ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -5,7 +7,8 @@
 <title>上传信息</title>
 </head>
 <body>
-<!--{$user.name}-->
+<?php echo $this->_tpl_vars['user']['name']; ?>
+
 <form name="info" method="post" action="/index" >
 <table border="1">
 	<tr>

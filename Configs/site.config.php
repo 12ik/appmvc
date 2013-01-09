@@ -9,16 +9,16 @@
 		$_CONFIG['db']['code'] = array(
 		'master' => array(
 			'dbhost'=>'127.0.0.1',
-			'dbname'=>'test',
+			'dbname'=>'12ik',
 			'username'=>'root',
-			'password'=>'123456'
+			'password'=>''
 		),
 		'slave' => array(
 			'0' => array(
 				'dbhost'=>'127.0.0.1',
-				'dbname'=>'test',
+				'dbname'=>'12ik',
 				'username'=>'root',
-				'password'=>'123456'
+				'password'=>''
 			)
 		)
 	);

@@ -12,7 +12,7 @@ if (defined(MDS_DEV) && MDS_DEV == 1) {
 	ini_set("display_errors", 1);
 }
 
-define('BASE_PATH'  , dirname(realpath(dirname(__FILE__))));
+define('BASE_PATH'  , realpath(dirname(__FILE__)));
 define('APP_PATH'   , BASE_PATH .'/Application');
 define('CACHE_PATH' , BASE_PATH .'/Resources/Cache');
 define('SELF'       , pathinfo(__FILE__, PATHINFO_BASENAME));
