@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>上传信息</title>
+</head>
+<body>
+<form name="info" method="post" action="/index" >
+<table border="1">
+	<tr>
+		<td>姓名</td>
+		<td>号码</td>
+		<td>图1</td>
+		<td>图2</td>
+		<td>图3</td>
+		<td>图4</td>
+		<td>图5</td>
+	</tr>
+	<tr>
+		<td><!--{$res.name}--></td>
+		<td><!--{$res.id_number}--></td>
+		<td><a href="/index/image/id/<!--{$res.id}-->/step/1" target="_blank"><img src="/index/image/id/<!--{$res.id}-->/step/1" width="100" height="100"/></a></td>
+		<td><a href="/index/image/id/<!--{$res.id}-->/step/2" target="_blank"><img src="/index/image/id/<!--{$res.id}-->/step/2" width="100" height="100"/></a></td>
+		<td><a href="/index/image/id/<!--{$res.id}-->/step/3" target="_blank"><img src="/index/image/id/<!--{$res.id}-->/step/3" width="100" height="100"/></a></td>
+		<td><a href="/index/image/id/<!--{$res.id}-->/step/4" target="_blank"><img src="/index/image/id/<!--{$res.id}-->/step/4" width="100" height="100"/></a></td>
+		<td><a href="/index/image/id/<!--{$res.id}-->/step/5" target="_blank"><img src="/index/image/id/<!--{$res.id}-->/step/5" width="100" height="100"/></a></td>
+	</tr>
+	<tr>
+		<td colspan="7" align="center"><a href="/index">继续添加</a></td>
+	</tr>
+</table>
+</form>
+</body>
+</html>

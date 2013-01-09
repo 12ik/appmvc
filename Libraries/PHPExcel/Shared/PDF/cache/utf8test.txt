@@ -1,0 +1,135 @@
+Sentences that contain all letters commonly used in a language
+--------------------------------------------------------------
+
+Markus Kuhn <http://www.cl.cam.ac.uk/~mgk25/> -- 2001-09-02
+
+This file is UTF-8 encoded.
+
+
+Danish (da)
+---------
+
+  Quizdeltagerne spiste jordb忙r med fl酶de, mens cirkusklovnen
+  Wolther spillede p氓 xylofon.
+  (= Quiz contestants were eating strawbery with cream while Wolther
+  the circus clown played on xylophone.)
+
+German (de)
+-----------
+
+  Falsches 脺ben von Xylophonmusik qu盲lt jeden gr枚脽eren Zwerg
+  (= Wrongful practicing of xylophone music tortures every larger dwarf)
+
+  Zw枚lf Boxk盲mpfer jagten Eva quer 眉ber den Sylter Deich
+  (= Twelve boxing fighters hunted Eva across the dike of Sylt)
+
+  Heiz枚lr眉cksto脽abd盲mpfung
+  (= fuel oil recoil absorber)
+  (jqvwxy missing, but all non-ASCII letters in one word)
+
+English (en)
+------------
+
+  The quick brown fox jumps over the lazy dog
+
+Spanish (es)
+------------
+
+  El ping眉ino Wenceslao hizo kil贸metros bajo exhaustiva lluvia y 
+  fr铆o, a帽oraba a su querido cachorro.
+  (Contains every letter and every accent, but not every combination
+  of vowel + acute.)
+
+French (fr)
+-----------
+
+  Portez ce vieux whisky au juge blond qui fume sur son 卯le int茅rieure, 脿
+  c么t茅 de l'alc么ve ovo茂de, o霉 les b没ches se consument dans l'芒tre, ce
+  qui lui permet de penser 脿 la c忙nogen猫se de l'锚tre dont il est question
+  dans la cause ambigu毛 entendue 脿 Mo每, dans un capharna眉m qui,
+  pense-t-il, diminue 莽脿 et l脿 la qualit茅 de son 舱uvre. 
+
+  l'卯le exigu毛
+  O霉 l'ob猫se jury m没r
+  F锚te l'ha茂 volap眉k,
+  脗ne ex a茅quo au whist,
+  脭tez ce v舱u d茅莽u.
+
+  Le c舱ur d茅莽u mais l'芒me plut么t na茂ve, Lou每s r锚va de crapa眉ter en
+  cano毛 au del脿 des 卯les, pr猫s du m盲lstr枚m o霉 br没lent les nov忙.
+
+Irish Gaelic (ga)
+-----------------
+
+  D'fhuascail 脥osa, 脷rmhac na h脱ighe Beannaithe, p贸r 脡ava agus 脕dhaimh
+
+Hungarian (hu)
+--------------
+
+  脕rv铆zt疟r艖 t眉k枚rf煤r贸g茅p
+  (= flood-proof mirror-drilling machine, only all non-ASCII letters)
+
+Icelandic (is)
+--------------
+
+  K忙mi n媒 枚xi h茅r ykist 镁j贸fum n煤 b忙冒i v铆l og 谩drepa
+
+  S忙v枚r gr茅t 谩冒an 镁v铆 煤lpan var 贸n媒t
+  (some ASCII letters missing)
+
+Greek (el)
+-------------
+
+  螕伪味苇蔚蟼 魏伪峤?渭蠀蚁蟿喂峤蚕?未峤参?胃峤?尾蚁峥?蟺喂峤?蟽蟿峤?蠂蚁蠀蟽伪蠁峤?尉苇蠁蝇蟿慰
+  (= No more shall I see acacias or myrtles in the golden clearing)
+
+  萤蔚蟽魏蔚蟺维味蝇 蟿峤次?蠄蠀蠂慰蠁胃蠈蚁伪 尾未蔚位蠀纬渭委伪
+  (= I uncover the soul-destroying abhorrence)
+
+Japanese (jp)
+-------------
+
+  Hiragana: (Iroha)
+
+  銇勩仿銇伀銇汇夫銇ㄣ仭銈娿伂銈嬨倰
+  銈忋亱銈堛仧銈屻仢銇ゃ伃銇倝銈€
+  銇嗐伦銇亰銇忋倓銇俱亼銇点亾銇堛仸
+  銇伞仌銇嶃幸銈并伩銇椼倯銇层倐銇涖仚
+
+  Katakana:
+
+  銈ゃ儹銉忋儖銉涖儤銉?銉并儶銉屻俪銉?銉偒銉ㄣ偪銉偨 銉勩尽銉娿儵銉?
+  銈︺俨銉庛偑銈儰銉?銈便儠銈炽偍銉?銈偟銈储銉°儫銈?銉便儝銉偦銈广兂
+
+Hebrew (iw)
+-----------
+
+  ? 赞讙 住拽专谉 砖讟 讘讬诐 诪讗谠讻讝讘 谠诇驻转注 诪爪讗 诇谠 谳讘专讛 讗讬讱 讛拽诇讬讟讛
+
+Polish (pl)
+-----------
+
+  Pchn膮膰 w t臋 艂贸d藕 je偶a lub o橹m skrzy艅 fig
+  (= To push a hedgehog or eight bins of figs in this boat)
+
+Russian (ru)
+------------
+
+  袙 褔邪褖邪褏 褞谐邪 卸懈谢 斜褘 褑懈褌褉褍褋? 袛邪, 薪芯 褎邪谢褜褕懈胁褘泄 褝泻蟹械屑锌谢褟褉!
+  (= Would a citrus live in the bushes of south? Yes, but only a fake one!)
+
+Thai (th)
+---------
+
+  [--------------------------|------------------------]
+  喙?喙€喔涏箛喔权浮喔权父喔┼涪喙屶釜喔膏笖喔涏福喔班箑喔福喔脆笎喙€喔ム复喔ㄠ竸喔膏笓喔剿箞喔? 喔佮抚喙堗覆喔氞福喔｀笖喔侧笣喔灌竾喔副喔曕抚喙屶箑喔断福喔编笀喔夃覆喔?
+  喔堗竾喔澿箞喔侧笩喔编笝喔炧副喔抡笝喔侧抚喔脆笂喔侧竵喔侧福           喔涪喙堗覆喔ム箟喔侧竾喔溹弗喔侧笉喔む箙喙€喔傕箞喔权竼喙堗覆喔氞傅喔钺覆喙冟竸喔?
+  喙剿浮喙堗笘喔粪腑喙傕笚喔┼箓喔佮福喔樴箒喔娻箞喔囙笅喔编笖喔付喔断府喔编笖喔断箞喔?    喔副喔断腑喔犩副喔⑧箑喔浮喔粪腑喔权竵喔掂脯喔侧腑喔编笂喔屶覆喔副喔?
+  喔涏笍喔脆笟喔编笗喔脆笡喔｀赴喔炧袱喔曕复喔佮笌喔佮赋喔笝喔断箖喔?       喔炧腹喔断笀喔侧箖喔箟喔堗箠喔班箚 喔堗箣喔侧箚 喔权箞喔侧笩喔编竾喙€喔涪 喔?
+
+  [The copyright for the Thai example is owned by The Computer
+  Association of Thailand under the Royal Patronage of His Majesty the
+  King.]
+
+Please let me know if you find others! Special thanks to the people
+from all over the world who contributed these sentences.

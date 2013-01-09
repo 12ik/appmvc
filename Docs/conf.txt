@@ -1,0 +1,25 @@
+<VirtualHost *:80>
+    ServerAdmin xuhe@joyport.com
+    DocumentRoot "D:/website/test/Entry"
+
+    ServerName www.test.com
+    ServerAlias www.test.com
+
+    LogFormat "%h %l %u %t \"%r\" %>s %b" common
+
+    ErrorLog logs/www.test.com.error_log
+    CustomLog logs/www.test.com.access_log common
+
+    DirectoryIndex index.php
+
+    <directory />
+        Order Allow,Deny
+        allow from all
+        Options  FollowSymLinks
+        AllowOverride none
+    </directory>
+
+    RewriteEngine on
+    RewriteCond $1 !^/(images|css|js|swf|upload|robots\.txt)
+    RewriteRule ^(.*)$ /index.php/$1 [L]
+</VirtualHost>
